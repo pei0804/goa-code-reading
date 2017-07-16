@@ -1,4 +1,4 @@
-REPO:=github.com/tikasan/goa-code-reading
+REPO:=github.com/pei0804/goa-code-reading
 
 gen: clean generate imports
 
